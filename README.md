@@ -10,9 +10,8 @@
 </div>
  
  <br>
- 
-  ### Um dev em busca de conhecimento e realizações!
-<div style="border: 2">
+ <div style="font-size: 20px; border-bottom:4px">
+    Um dev em busca de conhecimento e realizações!
 </div>
 <div> 
   <a href="https://www.youtube.com/channel/UCQqxEyamwQHvDTyZSM_ItqA" target="_blank" ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" ></a>
